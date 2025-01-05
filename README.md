@@ -1,3 +1,3 @@
 # 2025AIParsing
 
-Some leanring materials to be helped by AI
+Some learning materials to be helped by AI
